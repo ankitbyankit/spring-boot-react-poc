@@ -1,0 +1,14 @@
+package com.springreact.poc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringreactpocApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringreactpocApplication.class, args);
+	}
+
+}
+
